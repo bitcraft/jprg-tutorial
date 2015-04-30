@@ -1,6 +1,6 @@
 import pygame
 from pygame.locals import *
-from pytmx import load_pygame
+from pytmx.util_pygame import load_pygame
 import pyscroll
 import os.path
 from collections import deque
